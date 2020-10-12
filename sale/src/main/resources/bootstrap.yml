@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: sale
+  cloud:
+    config:
+      uri: http://localhost:9080
